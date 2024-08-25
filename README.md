@@ -1,10 +1,15 @@
-Description:
+### Requires AutoHotkey
+This is an AutoHotkey script, make sure you have the program autohotkey installed. https://www.autohotkey.com/
+
+# Virtual Clipboard
 The VirtualClipboard script creates a skeuomorphic virtual clipboard for storing saved text clippings. 
 It works by automatically saving (Ctrl + C) & (Ctrl + X) keyboard actions to a list, 
 and selecting a list items saves that stored text to your clipboard to be used in paste.
 
+![Demo](/VirtualClipboard.gif)
+
 Setup:
-This full folder named VirtualClipboard conatining an Assets folder, and the VirtualClipboard.ahk file should be saved to your local machine.
+This full repo containing an Assets folder, and the VirtualClipboard.ahk file should be saved to your local machine.
 Open the .ahk file and set the following lines to this file location you just made, this should be the location containing the script file and assets folder.
 
 (This should be done in your script document, below is for reference only)
