@@ -1,6 +1,8 @@
 ### Requires AutoHotkey
 This is an AutoHotkey script, make sure you have the program AutoHotkey installed. https://www.autohotkey.com/
 
+Orignal script was written in v1, but is currently compatible with v2
+
 # Virtual Clipboard
 The VirtualClipboard script creates a skeuomorphic virtual clipboard for storing saved text clippings. 
 It works by automatically saving (Ctrl + C) & (Ctrl + X) keyboard actions to a list, 
