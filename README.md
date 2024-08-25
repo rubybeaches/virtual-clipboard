@@ -8,7 +8,7 @@ and selecting a list items saves that stored text to your clipboard to be used i
 
 ![Demo](/VirtualClipboard.gif)
 
-Setup:
+## Setup
 This full repo containing an Assets folder, and the VirtualClipboard.ahk file should be saved to your local machine.
 Open the .ahk file and set the following lines to this file location you just made, this should be the location containing the script file and assets folder.
 
